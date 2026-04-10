@@ -1,0 +1,22 @@
+{
+  "name": "zeiss-optical-website",
+  "version": "1.0.0",
+  "description": "Landing page for ZEISS optical shop in São José dos Pinhais, PR",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx live-server",
+    "build": "echo 'Build optimization coming soon'",
+    "test": "echo 'Tests coming soon'"
+  },
+  "keywords": [
+    "zeiss",
+    "optical",
+    "landing-page",
+    "portfolio"
+  ],
+  "author": "Luna Comunica",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
